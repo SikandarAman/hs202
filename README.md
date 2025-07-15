@@ -1,1 +1,1 @@
-# hs202
+# HS202 Project
